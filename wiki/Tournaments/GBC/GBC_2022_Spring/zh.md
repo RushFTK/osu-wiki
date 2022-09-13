@@ -17,7 +17,7 @@ GB杯2022春季赛是由 ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/us
 | 阶段 | 时间 |
 | --: | :-- |
 | 报名 | 2022-03-26 至 2022-04-02 (23:59 UTC+8) |
-| 征召 | 2022-04-03 (19:30 UTC+8) |
+| 征召阶段 | 2022-04-03 (19:30 UTC+8) |
 | 常规赛第一周 | 2022-04-09 至 2022-04-10 |
 | 常规赛第二周 | 2022-04-16 至 2022-04-17 |
 | 常规赛第三周 | 2022-04-23 至 2022-04-24 |
@@ -187,7 +187,7 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
 | --:  |--: | :-- | :-- | :-: | :-: |
 | **GBC最强阵容9个Miyes** | **7** | 3 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100634289) | 季军赛 |
 
-### Semifinals
+### 半决赛
 
 2022 年 5 月 7 日，星期六:
 
@@ -201,7 +201,7 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
 | --:  |--: | :-- | :-- | :-: |
 | GBC最强阵容9个Miyes | 3 | **7** | **金戈铁马的鲜丰水果摊** | [#1](https://osu.ppy.sh/community/matches/100444701) |
 
-### Quarterfinals
+### 四分之一决赛
 
 2022 年 5 月 1 日，星期日:
 
@@ -311,29 +311,29 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
 | Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [screenshot](img/GBC2SprW1M7.jpg) |
 | 你没对象对不队 | 2 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/99609983) |
 
-## Ruleset
+## 规则
 
-### Tournament rules
+### 锦标赛规则
 
-1. The GB Cup 2022 Spring is a captain draft-based team tournament, played on the osu!mania game mode.
-   - **While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.**
-2. Beatmap scoring is based on Score V2.
-3. The maps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
-   - Each mappool will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. if the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
-4. Match scheduling will be handled by the host.
-5. If no referee is available at match time, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
-   - Reviving and surviving during a beatmap is considered as passing it.
-7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
-   - Custom skin elements must not be used to alter core gameplay mechanics.
-8. If a game ends in a draw, it will be nullified and the map will be replayed.
-9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
-   - "Lag spikes" are not considered a valid reason to nullify a beatmap.
-   - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
-   - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-10. **The size for a team is 5.**
-    - This might change depending on the amount of registrations.
-11. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+1. GB杯 2022 春季赛是osu!mania 模式下，队长征召形式的团体赛。
+   - **虽然本次比赛计划为 3v3，但可能会根据报名人数而改变。**
+2. 分数计算基于 Score V2.
+3. 每一轮的图池会在实际比赛开始前一周的周日，由图池管理公布。
+   - 每一个图池军包含一张*决胜图*（tiebreaker，TB），仅用于 *X 局 Y 胜制*（best of ，BO X）中到达比分界限仍为平局（ X 局 Y 胜制中的第 X 局）时使用。例如：如果双方比分为 4-4 且比赛为 9 局 5 胜制，就需要启用决胜图。
+4. 赛程安排将由主办负责。
+5. 没有裁判可用时，比赛将会推迟。
+6. 选手 Failed 时，其分数将不会计算在队伍总分内。
+   - 中途复活且最终存活，则仍然被视作 pass。
+7. 允许使用视觉设置来调整背景暗化或禁用谱面背景。
+   - 自定义皮肤元素不能影响到核心玩法机制。
+8. 如果一个谱面平局，则分数作废，需重赛此谱面。
+9. 如果队员在游玩中遇到技术问题，队伍可提出重赛申请。
+   - "掉帧"不能作为使谱面结果无效的有效理由。
+   - 如果进行重赛，双方队员游玩该铺面的阵容必须保持一致。如果无法做到（例如由于技术问题），*双方*队伍均允许更换阵容。
+   - 这条规则不应被滥用。裁判在某些情况下将会否决重赛申请。
+10. **队伍大小为5人。**
+    - 这条规则可能会根据报名人数而改变。
+11. 如果一个选手断线，他的分数将不会计算在队伍总分内。If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
     - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
