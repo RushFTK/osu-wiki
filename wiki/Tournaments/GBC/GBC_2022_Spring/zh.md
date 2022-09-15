@@ -333,21 +333,21 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
    - 这条规则不应被滥用。裁判在某些情况下将会否决重赛申请。
 10. **队伍大小为5人。**
     - 这条规则可能会根据报名人数而改变。
-11. 如果一个选手断线，他的分数将不会计算在队伍总分内。If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
-    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
-    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
-    - Screenshots from other players taken directly in-game that show the affected player's score.
-      - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
-      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
-      - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
-    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
-    - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
-13. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-instructions) for details.
-14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied.
-15. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match). 
-16. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
-17. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited.
+11. 如果一个选手断线，除非有足够的证据证明他完赛出分，否则他的分数将不会计算在队伍总分内。 下面的证据可视为有效：
+    - 以选手为视角的直播片段（俗称"录屏"或"VOD"）。包含结果界面的受影响玩家完整游玩过程必须清晰可见。
+    - 从受影响选手客户端的“本地分数”标签中直接获取的当次游玩的录像文件。（时间戳必须与对局开始的时间一致，通过mp link确定对局开始时间）
+    - 能够显示受影响选手得分的其他选手游戏内截图。
+      - 结果页的截图必须清晰显示受影响选手的分数。推荐使用结果页截图。
+      - 掉线时的游戏内截图也可以接受。注意该方法并不能1：1获得选手出分。不推荐使用此方法，裁判如果觉得该截图不足以识别选手或分数，也会否决该信息源。
+      - 所有截图**必须**使用游戏客户端本身获取（使用`Shift` + `F12`）。这意味着他们必须存储在 `https://osu.ppy.sh/` 域名内。其他形式的截图将会被否决。
+    - 如果比赛在直播中，作为最后手段，选手的分数可从官方直播流中获取。
+12. 如果在比赛时，出席选手低于最低要求，比赛可推迟至多 10 分钟。如果超过该时间段双方选手人数仍不足。出席选手最多的一方将被宣布*不战而胜* (win by default) 。
+    - 需要参赛的最少选手数定义为需要游玩一个谱面的最少玩家数。
+13. 除赛事特别规则外，比赛期间可以无限制地替换上场选手。关于赛事特别规则的详细信息请参见[比赛说明](#比赛说明)。
+14.  所有的选手都应该保持比赛流畅。如果来自选手一方的比赛延误过多，队伍可能会受到处罚。
+15. 如果选手在两局间掉线且队伍无法提供替补，比赛可推迟最多10分钟（限制一个队伍一场比赛中仅一次机会）。
+16. 所有的选手和工作人员必须被尊重对待。必须遵守主办和裁判的指示。不得反对最终决定。
+17. 严禁消极比赛、侮辱与激怒其他选手和裁判、拖延比赛等故意的不当行为来扰乱比赛。
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the time being.
 19. Unexpected incidences will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
@@ -360,7 +360,7 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
     - Disqualification from current and future official and community tournaments, until appealed.
 21. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
-### Tournament registration
+### 比赛报名
 
 1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
@@ -370,7 +370,7 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
 4. Organisers, mappool selectors, and referees must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
-### Drafting phase instructions
+### 征召阶段说明
 
 1. The host will declare one captain for each team 24 hours before the drafting phase.
    - Drafting order will also be declared by the host.
@@ -389,7 +389,7 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
 9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
 
-### Regular stage instructions
+### 常规赛阶段说明
 
 1. Following the drafting phase, a 3-round Swiss stage will be played. This means teams with same record will face each other.
 2. The final ranking of the Swiss round will be determined by the following criteria in order:
@@ -406,16 +406,16 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
 4. In the Regular stage, all teams will play in the same mappool.
 5. The results from the Regular stage will also be used for seeding teams.
 
-### Playoff stage instructions
+### 季后赛阶段说明
 
 1. Following the Regular stage, a single elimination stage will be played. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 
-### Win conditions
+### 胜利条件
 
 - In the Regular stage and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
 - In Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
 
-### Match instructions
+### 比赛说明
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!mania, Team VS, Win Condition: Score v2. Room name must be `GBC2 Spr: ({TeamRed}) vs ({TeamBlue})`.
@@ -440,7 +440,7 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
    - Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
 7. The referee reserves the right to modify these rules or decide if a team has violated these rules in matches they are responsible for, if absolutely necessary.
 
-### Mappool instructions
+### 图池说明
 
 1. There will be three separate mappools.
    - Regular stage Round 1 and Round 2 use mappool #1.
@@ -452,10 +452,10 @@ GB杯 2022 春季赛由 GB Team 和多位社区成员举办
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
-### Scheduling instructions
+### 排程说明
 
-1. Each stage will be held on **a single weekend**.
-2. All matches will be held on either a Saturday or Sunday (UTC+8).
+1. 每个比赛阶段都会在**单独的周末**进行。
+2. 所有阶段将在星期六或星期日 (UTC+8) 开始。
    - Rescheduling a match to a weekday is only permitted if **both** teams request and agree to it.
 3. Scheduling will be handled by the host, and will be released on the Sunday before the first match of the stage. The host will try to create a schedule that respects all participants' preferences.
    - Please inform the host before Sunday if you expect a specific time slot to be unavailable in the following week. The host will try to accommodate all wishes, but makes no promises.
