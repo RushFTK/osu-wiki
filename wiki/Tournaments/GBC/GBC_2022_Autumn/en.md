@@ -64,24 +64,25 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 ### Ruleset Changes from last tournament
 1. Qualifier stage added, for deteriment captain role, result will be used in Drafting phase.
 2. Player not being picked on Drafting phase will be eliminated.
+3. Map pools increased, from `best of X+2` to `best of X+4`
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-3. Failed Player's score still get added to the team score.
-4. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
-5. Referees have rights to lower or higher timer settings.
-6. Host have rights to request VOD at any point.
-7. Called tactical timeout on Tie-breaker need both teams' captains agreement.
-8. Referee **nolonger** have right to temporary modify rules on matches they responsible for.
-9. NoFail mod could be choose in FreeMod bracket.
+4. Failed Player's score still get added to the team score.
+5. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
+6. Referees have rights to lower or higher timer settings.
+7. Host have rights to request VOD at any point.
+8. Called tactical timeout on Tie-breaker need both teams' captains agreement.
+9.  Referee **nolonger** have right to temporary modify rules on matches they responsible for.
+10. NoFail mod could be choose in FreeMod bracket.
 
 ### Tournament rules
 
 1. The GB Cup 2022 Autumn is a captain draft-based team tournament, played on the osu!mania game mode.
    - **While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.**
 2. Beatmap scoring is based on Score V2.
-3. The maps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
-4. Match scheduling will be handled by the host.
+3. The maps for each round will be announced by the mappool selectors on the official stream, on the Sunday before the actual matches take place.
+4. The match schedules for each round will be announced by the host on this page, as well as the information sheet, on the Sunday before the matches take place.
 5. If no referee is available at match time, the match will be postponed.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
@@ -100,7 +101,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
      - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 11. If less than the minimum amount of required players are present at match time,  the match can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
-    - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
+    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
 12. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-instructions) for details.
 13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 14. **The size for a team is 5.**
@@ -129,16 +130,21 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
 3. A list of all successfully registered players will be published after the registration phase, and will then participate in the Drafting phase.
-4. Tournament staff members must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/en/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament, with the exception of commentators and streamers.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
 ### Qualifier instructions
 
 1. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
-2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Game_modifier#freemod) rules.
+2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Game_modifier#freemod) rules, organised as such:
+	   - Rice: 3 beatmaps
+	   - LN: 2 beatmaps
+	   - Hybrid: 1 beatmap
+	   - SV: 1 beatmap
 3. Players will play the mappool at least once at a designated time. Their best combined score will be the final result.
    - Best combined score means totals of each beatmaps best score.
-4. The mappool will be played in the order listed above.
+4. The mappool is to be played in the following order: SV1, RC1, HB1, LN1, LN2, RC2, RC3. Players may not ask to play the pool in any other order.
+	   -  Players may skip playing any beatmap on their second run.
 5. There will be an optional 5-minute break in between the first and second play-through of the mappool.
    - Player also have rights to forfeit second runs.
 6. All players will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
@@ -234,9 +240,9 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Semifinals and Finals use mappool #3.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps   
-   - Mappools #1 & #2: 13 beatmaps
-   - mappool #3: 15 beatmaps.
+   - Qualifiers: 7 beatmaps   
+   - Mappools #1 & #2: 15 beatmaps
+   - mappool #3: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
