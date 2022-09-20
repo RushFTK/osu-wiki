@@ -64,6 +64,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 ### Ruleset Changes from last tournament
 1. Qualifier stage added, for deteriment captain role, result will be used in Drafting phase.
 2. Player not being picked on Drafting phase will be eliminated.
+3. Player can't be banned if he never played a game in a match.
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
@@ -150,6 +151,13 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Stage instructions
 
+<!--这里可以列出所有比赛的情况：
+16队 -> 三轮瑞士轮 + 附加轮（2-1 vs 1-2） -> 8队DE，3+1+4=8周
+24队 -> 24队Seeding赛（Qualifier） -> (9-24) 16进8 DE -> 16队DE， 1+2+5=8周  （9-24争一个16队双败的8个外卡名额，其中除了2-0和0-2，剩下的队伍都需要在第二周双赛）
+或：6*4 RR ，小组2，3进RO12，小组1进QF -> SE， 5+3=8周 （SF，F一周内举行）（EPL赛制）
+32队 -> 三轮瑞士轮 + 附加轮 (2-1 vs 1-2) -> 16队SE，3+1+4 = 8周
+-->
+
 1. Following the Qualifier stage, all player should pricipate a phase to formed teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
 2. Following the Drafting phase, a swiss stage will be played, called `Regular stage`. Top 8 teams will be advanced, others are eliminated from the tournament.
 3. Following the Regular stage, a single elimination stage will be played, called `Play-offs`. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
@@ -163,6 +171,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 2. Captains decide their team members during the drafting phase.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
+<!--考虑到队伍数量不固定，可以改成first->last，可以每队6个人防止有些队伍有些人临时上不了的情况-->
 4. During the picking phase, picks start in *increasing* order, from the 1st to the 16th captain. The picks repeat four times, such that every captain gets to choose 4 players.
    - *this might change depending on the number of incoming registrations.*
 <!--4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captains gets to choose 4 players.
@@ -188,7 +197,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Most beatmaps won
    - Fewest beatmaps lost
    - Dice roll
-<!--加个比较各图队伍最高分？从RC1到TB，如果一方打了另一方没打就不做统计，或者只看双方都打图总和的最高分？(不同图池咋办，从早的比吗？或者比较谁拥有更高分数的图多？)加到Dice roll前面-->
+<!--加个比较各图队伍最高分？从RC1到TB，如果一方打了另一方没打就不做统计，或者只看双方都打图总和的最高分？(不同图池咋办，从早的比吗？或者比较谁拥有更高分数的图多？)加到Dice roll前面--> 
 3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
    - This means that teams with a record of 2-X or better will advance to the next stage.
    - All teams will finish all 3 rounds, even when they have a record of 0-2.
@@ -213,6 +222,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap. 
 5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, except in a tiebreaker.
    - Any player can only be banned like this **once** per match.
+   - If player never played on this match, he **can't** be banned.
+<!--增加选手不能被ban-->
    - Banning players is optional.
 6. Teams will have 2 minutes to pick or ban a beatmap, 1 minute to ban an opposing player, and 2 minutes to get ready. If a team takes more time than allotted, the procedures adopted will be as follows:
    - For the first occurrence:
@@ -228,6 +239,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Mappool instructions
 
+<!--根据赛制，图池可能会发生变更，我们可以学习SOFT6，把所有可能的赛制列出来-->
 1. There will be three separate mappools.
    - Regular stage Round 1 and Round 2 use mappool #1.
    - Regular stage Round 3 and Quarterfinals use mappool #2.
