@@ -10,35 +10,35 @@ tags:
 
 ![GBC 2022 Autumn banner](img/GBC-2022-Autumn-banner.png)
 
-**GBC 2022 秋季赛** (***GB杯 2022 秋季赛***) 是由GB组织主办的3v3队长选秀制osu!mania4k项目赛事。本届比赛是GBC系列赛事的第二届正式比赛。
+**GBC 2022 秋季赛**（***GB 杯 2022 秋季赛***）是由 GB 组织主办的 3v3 队长选秀制 osu!mania 4k 项目赛事。本届比赛是 GBC 系列赛事的第二届正式比赛。
 
 ## 比赛日程
 
 | Event | Timestamp |
 | --: | :-- |
-| 报名阶段 | 2022-09-24/2022-10-07 (23:59 UTC+8) |
+| 报名阶段 | 2022-09-24 / 2022-10-07 (23:59 UTC+8) |
 | 资格赛图池展示 | 2022-10-09 (20:00 UTC+8) |
-| 资格赛 | 2022-10-15/2022-10-16 |
+| 资格赛 | 2022-10-15 / 2022-10-16 |
 | 资格赛结果展示 | 2022-10-17 (20:00 UTC+8) |
 | 选秀阶段 | 2022-10-22 |
 | 常规赛第一周图池展示 | 2022-10-23 (20:00 UTC+8) |
-| 常规赛第一周 | 2022-10-29/2022-10-30 |
-| 常规赛第二周 | 2022-11-05/2022-11-06 |
-| 常规赛第三周 | 2022-11-12/2022-11-13 |
-| 常规赛第四周 | 2022-11-19/2022-11-20 |
-| 十六强赛 | 2022-11-26/2022-11-27 |
-| 八强赛 | 2022-12-03/2022-12-04 |
-| 半决赛 | 2022-12-10/2022-12-11 |
-| 决赛 | 2022-12-17/2022-12-18 |
+| 常规赛第一周 | 2022-10-29 / 2022-10-30 |
+| 常规赛第二周 | 2022-11-05 / 2022-11-06 |
+| 常规赛第三周 | 2022-11-12 / 2022-11-13 |
+| 常规赛第四周 | 2022-11-19 / 2022-11-20 |
+| 十六强赛 | 2022-11-26 / 2022-11-27 |
+| 八强赛 | 2022-12-03 / 2022-12-04 |
+| 半决赛 | 2022-12-10 / 2022-12-11 |
+| 决赛 | 2022-12-17 / 2022-12-18 |
 
 ## 奖励
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫bot缎带, 定制奖牌, ￥250 |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫bot缎带, 定制奖牌, ￥250 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫bot缎带, 定制奖牌, ￥200 |
-| *殿军* | 定制奖牌, ￥150 |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫 bot 缎带，定制奖牌，￥250 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫 bot 缎带，定制奖牌，￥250 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫 bot 缎带，定制奖牌，￥200 |
+| *殿军* | 定制奖牌，￥150 |
 | *第 5-8 名* | ￥100 |
 | *第 9-16 名* | ￥80 |
 | *第 17-21 名* | ￥60 |
@@ -71,7 +71,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - [淘汰赛赛程](https://challonge.com/GBC2022Autumn)
-- [比赛QQ群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
+- [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [赛事信息表格](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
 
 ## 参赛选手
@@ -128,23 +128,23 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   1. [linear ring with RNAcid - Gypsophila (MyZterioN-) \[heartsick(1.05x rate)\]](https://osu.ppy.sh/beatmapsets/1805950#mania/3703574)
   2. [goreshit - thinking of you (Shoegazer) \[eternity 1.05x (238bpm)\]](https://osu.ppy.sh/beatmapsets/1749736#mania/3583117)
   3. [Cataclysmic Order - VENDeTTA (tyrcs) \[four\]](https://osu.ppy.sh/beatmapsets/1887401#mania/3886671)
-  4. [SPACELECTRO feat. irony - Treasure you [nmk Remix] (-Deepdive-) \[ I can't get over you (cut) 1.05x (162bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1875969#mania/3860579)
+  4. [SPACELECTRO feat. irony - Treasure you [nmk Remix] (-Deepdive-) \[I can't get over you (cut) 1.05x (162bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1875969#mania/3860579)
   5. [DJ TOTTO - Crystalia (Benson_) \[Splash\]](https://osu.ppy.sh/beatmapsets/1846420#mania/3792940)
   6. [kaitendaentai - Toki no Ryousen (Alptraum) \[Spiral Fragment\]](https://osu.ppy.sh/beatmapsets/1768813#mania/3620827)
   7. [Apo11o"QUASAR"program feat. Endou Shun - saihate (YuEast 2018) \[Dormancy\]](https://osu.ppy.sh/beatmapsets/1857688#mania/3818062)
 - Hybrid
   1. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (stupud man) \[DIVINE PUNISHMENT\]](https://osu.ppy.sh/beatmapsets/1849062#mania/3798338)
-  2. [Kanone - TEmPTaTiON (cherrychou) \[LN Master(od7)\]](https://osu.ppy.sh/beatmapsets/1497355#mania/3863479)
-  3. [Kobaryo-SUPER EMULATOR \[feat. HiTNEX-X\] (\[GB\]Luoxuan0327) \[5361 Goncharov\]](https://osu.ppy.sh/beatmapsets/1811945#mania/3885930)
+  2. [Kanone - TEmPTaTiON (cherrychou) \[LN Master (od7)\]](https://osu.ppy.sh/beatmapsets/1497355#mania/3863479)
+  3. [Kobaryo - SUPER EMULATOR \[feat. HiTNEX-X\] (\[GB\]Luoxuan0327) \[5361 Goncharov\]](https://osu.ppy.sh/beatmapsets/1811945#mania/3885930)
 - LN
-  1. [DECO*27 feat. Hatsune Miku - Mousou Zei (Hylotl) \[Lost in the reverie\]](https://osu.ppy.sh/beatmapsets/1886961#mania/3885773)
+  1. [DECO\*27 feat. Hatsune Miku - Mousou Zei (Hylotl) \[Lost in the reverie\]](https://osu.ppy.sh/beatmapsets/1886961#mania/3885773)
   2. [Kurenainagi Tabibito - Otenba Koimusume (zzzzzzsa6177) \[Frozen World\]](https://osu.ppy.sh/beatmapsets/1828368#mania/3752505)
   3. [3R2 - Corruption (YuEast 2018) \[x1.00\]](https://osu.ppy.sh/beatmapsets/1857687#mania/3818058)
   4. [MoVIIkA - Ms. Steam (tyrcs) \[od7\]](https://osu.ppy.sh/beatmapsets/1887403#mania/3886673)
 - SV
-  1. [THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla (Speed Up) (\[GB\]Mafufu) \[The Baddest \[SV\] \[OD6\]\]](https://osu.ppy.sh/beatmapsets/1834853#mania/3771834)
+  1. [K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla (Speed Up) (\[GB\]Mafufu) \[The Baddest \[SV\] \[OD6\]\]](https://osu.ppy.sh/beatmapsets/1834853#mania/3771834)
   2. [linear ring - Enchanted Love (Kamikho) \[Nerfed\]](https://osu.ppy.sh/beatmapsets/1512651#mania/3903541)
-- Tiebreaker
+- TieBreaker
   1. **[Kou! - High Speed Particle Collider-beam Accelerator (Hylotl) \[Tevatron (w/ YuEast 2018)\]](https://osu.ppy.sh/beatmapsets/1897369#mania/3910505)**
 
 ### 十六强赛 & 八强赛
@@ -164,14 +164,14 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   2. [3L - Miracle Hinacle (-Deepdive-) \[Misfortune DispelLN (cut) 1.15x (186bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/1298827#mania/3862920)
   3. [technoplanet - Intuition (11Bit) \[Instinct\]](https://osu.ppy.sh/beatmapsets/1737565#mania/3551424)
 - LN
-  1. [DECO*27/Giga-P - Cinderella (\[GB\]Mafufu) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
+  1. [DECO\*27/Giga-P - Cinderella (\[GB\]Mafufu) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
   2. [senya - Youyoumu no Gotoku (\[GB\]Sanae) \[Truth\]](https://osu.ppy.sh/beatmapsets/1771856#mania/3627515)
   3. [WolF.R - Snow Wish (Muses) \[Frozen edit\]](https://osu.ppy.sh/beatmapsets/1451720#mania/2985094)
   4. [AAAA - Carnation (MyZterioN-) \[Stage 4: Dianthus\]](https://osu.ppy.sh/beatmapsets/1789154#mania/3665962)
 - SV
   1. [Sakuraburst - Aethersong (RuleBlazing) \[Vapour Pressure\]](https://osu.ppy.sh/beatmapsets/1201543#mania/2502539)
   2. [Aphex Twins - Bbydhyonchord (arccat) \[Quignogs\]](https://osu.ppy.sh/beatmapsets/1458480#mania/2997174)
-- Tiebreaker
+- TieBreaker
   1. **[Camellia - Upload Your Mind :: Download My Soul (Muses) \[Void\]](https://osu.ppy.sh/beatmapsets/1239434#mania/3889595)**
 
 ### 常规赛第 3 & 4 周
@@ -181,7 +181,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - Rice
   1. [LEC - it's over, but NOT FOR ME. (\[GB\]Luoxuan0327) \[Beatmap's Belief (edit) \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1880247#mania/3871217)
   2. [Kotori - Nanamori (youth Remix) (Shoegazer) \[Escapade\]](https://osu.ppy.sh/beatmapsets/1360301#mania/3186828)
-  3. [Yamamoto Momiji - Fantastic\*To-ryanse! (YuEast 2018) \[\[edit x1.05\] (GBC autumn 2022 edit)\]](https://osu.ppy.sh/beatmapsets/1492558#mania/3846005)
+  3. [Yamamoto Momiji - Fantastic\*To-ryanse! (YuEast 2018) \[edit x1.05\]](https://osu.ppy.sh/beatmapsets/1492558#mania/3846005)
   4. [Dormir - Sayonara Trip (Hylotl) \[Himitsu 2022\]](https://osu.ppy.sh/beatmapsets/1869488#mania/3846372)
   5. [Nanashi Mumei - A New Start (\[GB\]Sanae) \[Flawless World (126bpm)\]](https://osu.ppy.sh/beatmapsets/1868394#mania/3843759)
   6. [T.B.K - Louve d’Automne (-Deepdive-) \[Automne d'Automne\]](https://osu.ppy.sh/beatmapsets/1827113#mania/3772113)
@@ -194,10 +194,10 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   2. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no mezame (stupud man) \[Divinity\]](https://osu.ppy.sh/beatmapsets/1435419#mania/2953643)
   3. [M2U - Gypsy Tronic (Stability) \[Raveille\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
 - SV
-  1. [Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
-  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) (Lott) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
-- Tiebreaker
-  1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
+  1. [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
+  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) ([GB]Mafufu) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
+- TieBreaker
+  1. **[ayo - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
 
 ### 常规赛第 1 & 2 周
 
@@ -221,8 +221,8 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - SV
   1. [Airuei - Framework (H1Pur) \[Structures\]](https://osu.ppy.sh/beatmapsets/1465676#mania/3010240)
   2. [Fellsius - Talk (Cut ver.) (Muses) \[talk with sv\]](https://osu.ppy.sh/beatmapsets/1815218#mania/3723860)
-- Tiebreaker
-  1. **[you vs. ETIA. - Shang A Lang (kamome sano Remix) (_Kobii) \[Brilliance(edit)\]](https://osu.ppy.sh/beatmapsets/1871551#mania/3850844)**
+- TieBreaker
+  1. **[you vs. ETIA. - Shang A Lang (kamome sano Remix) (\_Kobii) \[Brilliance (edit)\]](https://osu.ppy.sh/beatmapsets/1871551#mania/3850844)**
 
 ### 资格赛
 
@@ -494,8 +494,8 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 41 | ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345) | 49.28 |
 | 42 | ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773) | 49.38 |
 | 43 | ::{ flag=CN }:: [Riemann](https://osu.ppy.sh/users/30327473) | 49.9 |
-| 45 | ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025) | 50.13 |
-| 45 | ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641) | 50.13 |
+| 44 | ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025) | 50.13 |
+| 44 | ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641) | 50.13 |
 | 46 | ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648) | 50.72 |
 | 47 | ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841) | 52.21 |
 | 48 | ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581) | 52.91 |
@@ -588,17 +588,17 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 5. 比赛中，任何选手必须在至少一个图出分之后才能被禁用（换言之，第一局两队都无法禁用选手）。
 6. 比赛中，先选图的队伍前两轮无法禁用选手。
 7. 选图和 ban 人的消息应在同一条信息发送，如果拖延 ban 人则裁判有权无视此次 ban 人行为。
-8. 排名决定因素中加入“小分净胜和”以避免出现 roll 点决定排名的情况。
+8. 排名决定因素中加入「小分净胜和」以避免出现 roll 点决定排名的情况。
 9. 图池增加了两张谱面。
 10. 决定排名时，将净胜局放在对手净胜场和之前考虑。
 
 下列规则和 `MWC 4k 2022` 保持一致 : 
 
-11. ro点获胜队伍可以自行选择先选图还是先禁用图。
+11. roll 点获胜队伍可以自行选择先选图还是先禁用图。
 12. 比赛中失败的选手成绩也会被加入最后的总分。
 13. 如果选手在比赛中过早掉线，队伍可以申请重开这一局。
 14. 裁判有权调整 timer 的时间。
-15. 在TB决胜图要求技术暂停需要双方队长的同意。
+15. 在 TB 决胜图要求技术暂停需要双方队长的同意。
 16. NoFail 可以作为正常 mod 在比赛中使用。
 
 ### 比赛规则
@@ -614,41 +614,41 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
    - 游戏卡顿延迟并不会被作为一个可行的理由。
    - 如果发生了重赛，那么比赛双方的选手必须保持和初次相同。如果其中有选手确实无法比赛，那么双方都允许换人。
    - 禁止滥用此规则，如果裁判发现有队伍故意利用此规则，其可以拒绝重赛请求。
-8. 在30秒内或者谱面的25%时间内掉线可以申请重赛，掉线选手的队伍需要及时在聊天中告知裁判。
+8. 在 30 秒内或者谱面的 25% 时间内掉线可以申请重赛，掉线选手的队伍需要及时在聊天中告知裁判。
    - 每名参赛选手在一场比赛中仅可以据此申请重赛**一局**，如果裁判认为选手滥用此规则可以拒绝重赛请求。
 9. 如果选手掉线，成绩不会被计入总分，除非该选手提供成绩证明。可接受的内容如下：
    - 选手视角的直播片段，必须包含清晰的游戏画面和结尾的成绩结算界面。
-   - osr回放文件，从选手的本地成绩中直接导出，开始时间必须和房间内的比赛开始时间严格契合。
+   - osr 回放文件，从选手的本地成绩中直接导出，开始时间必须和房间内的比赛开始时间严格契合。
    - 来自其他选手的游戏内截图，可以展示掉线选手的成绩。
      - 结算界面的截图必须清晰的展示掉线选手的成绩。比较推荐使用此方法。
      - 掉线时，截取的游戏内截图也可接受。此方法仅认定截图内显示的分数。不鼓励使用这种方法，如果提供的信息不足以识别选手得分，裁判有权否决分数认定。
      - 所有的截图**必须**使用 `Shift+F12` 在游戏内截取，并提交到 `https://osu.ppy.sh/` 域名下获得，其他方式的截图均会被拒绝。
      - 如果比赛是官方流转播的，作为最后手段，选手分数可以从官方流的转播处获得。
-10. 如果比赛时一方凑不齐最少的比赛人数，比赛可以被推迟最多10分钟。如果10分钟后还是缺人，那么在场选手最多的队伍会被判胜。
+10. 如果比赛时一方凑不齐最少的比赛人数，比赛可以被推迟最多 10 分钟。如果 10 分钟后还是缺人，那么在场选手最多的队伍会被判胜。
 11. 比赛中可以自由上下选手，除了触发特定规则的情况下。
-12. 如果比赛期间一方选手掉线且没有替补，比赛可以推迟最多10分钟，每队每场仅限一次。
+12. 如果比赛期间一方选手掉线且没有替补，比赛可以推迟最多 10 分钟，每队每场仅限一次。
 13. **每队人数为 5 人**。
     - 可能会随报名人数产生变动。
 14. 选手应该保持比赛流畅，严禁故意拖延。如选手过度的拖延时间，裁判可自行决定是否判罚。严禁通过犯规、侮辱或挑衅其他选手或工作人员、拖延时间或其他故意不当行为来扰乱比赛，如有违反将受到相应的惩罚。
 15. 比赛期间，必须尊重所有选手和工作人员，遵循裁判和主办方的指示，不得反对裁判和主办方最终决定。
-16. 多人聊天是[osu的基础规则](/wiki/Rules)，所有聊天规则也适用于多人聊天。
+16. 多人聊天遵守 [osu! 的基础规则](/wiki/Rules#游戏聊天频道规定)，所有聊天规则也适用于多人聊天。
 17. 违反比赛规则的处罚包括但不限于：
     - 禁止选手在某张图上场
     - 禁止选手在整场比赛上场
     - 整队判负
     - 本届比赛取消比赛资格
     - 系列赛取消比赛资格
-    - 系列赛和osu官方社区比赛禁赛，直至申诉通过
-18. 裁判可以根据情况调整timer的长度。
+    - 系列赛和 osu! 官方社区比赛禁赛，直至申诉通过
+18. 裁判可以根据情况调整 timer 的长度。
 19. 主办方有权要求选手开直播或录像。
 20. 主办方保留修改规则的权利，任何类似修改将会提前宣布。
 
 ### 比赛报名
 
 1. 请私信告知主办方并填写[报名表](https://wj.qq.com/s2/10842634/1ffa/)来进行报名。
-   - 报名后的选手**必须**加入[此QQ群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)。
+   - 报名后的选手**必须**加入[此 QQ 群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)。
 2. 主办方会手动审核所有报名选手来确保可行性和严肃性。
-   - 选手不得在 12 个月内有违反[osu!社区规则](/wiki/Rules)的记录。
+   - 选手不得在 12 个月内有违反 [osu! 社区规则](/wiki/Rules)的记录。
    - **本届赛事没有排名限制**，如果报名人数过多，主办方可能会邀请部分高水平玩家转去打表演赛。
 3. 报名结束后，主办方会公布所有成功报名玩家的名单，随后开始进行资格赛阶段。
 4. [比赛工作人员](/wiki/Tournaments/Official_support#what-is-considered-staff)不能作为选手参加本次比赛。
@@ -657,13 +657,13 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 ### 资格赛介绍
 
 1. 资格赛阶段中，每个选手需要游玩 8 张由图池管理员定制的谱面组成的图池。
-2. 资格赛图池包含8张谱面，均应用 [FreeMod](/wiki/Game_modifier#自由选择模组-(freemod)) 规则，谱面类型分别为:
+2. 资格赛图池包含 8 张谱面，均应用 [FreeMod](/wiki/Game_modifier#自由选择模组-(freemod)) 规则，谱面类型分别为:
    - Rice: 3 张
    - LN: 2 张
    - Hybrid: 2 张
    - SV: 1 张
 3. 选手需要在指定时间，在房间内连续打完整个图池，可以最多打两趟，最后的成绩为所有单曲最高分的和。
-4. 图池需要按如下顺序进行游玩: SV1, RC1, RC2, RC3, LN1, LN2, HB1, HB2。此顺序不可更改。
+4. 图池需要按如下顺序进行游玩：SV1，RC1，RC2，RC3，LN1，LN2，HB1，HB2。此顺序不可更改。
    - 选手打第二次的时候可以跳过任意谱面。
 5. 在第一次游玩和第二次游玩图池的中间，选手可以选择休息 5 分钟。
 6. 所有选手会在其单独的资格赛房间进行游戏。*我们建议选手不要直播资格赛，防止露分控分导致操纵资格赛排名*。
@@ -691,8 +691,8 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 7. 在选秀过程中，队长可以在聊天室里面自由发言，其他所有选手池的玩家将被禁言。
 8. 选秀结束之后，队长可以在告知主办方之后将队长位置让给其他队员。
 9. 队长需要在选秀结束后敲定队伍的名称。
-   - 默认名称是`Team {X}`, `{X}`是队长用户名的缩写。
-   - 队名最长不得超过 **12** 字(中文字符也算作一个字)。
+   - 默认名称是 `Team {X}`，`{X}`是队长用户名的缩写。
+   - 队名最长不得超过 **12** 字（中文字符算作 1 个字）。
 10. 在选秀阶段的不良行为，将被视为通过犯规扰乱比赛。
 
 ### 常规赛介绍
@@ -708,74 +708,74 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
    - 更高的局净胜分和（所有谱面的净胜分之和）
    - 扔骰子结果
 3. 前 16 的队伍会晋级淘汰赛，其他队伍会被淘汰。
-   - 获得 3 胜的队伍会晋级，获得3败的队伍会出局。
+   - 获得 3 胜的队伍会晋级，获得 3 败的队伍会出局。
    - 获得 2 胜的队伍有大概率会晋级。
-   - 由于 3 胜 0 负 和 0 胜 3 负的队伍已经确定晋级或淘汰，他们不需要打第四轮。
-4. 第四轮会有 9 个 2 胜 1 负 的队伍和 9 个 1 胜 2 负 的队伍，排名最高的 2 胜 1 负队伍会和排名最低的 1 胜 2 负队伍比赛，其他队伍会继续按照瑞士轮规则比赛。
+   - 由于「3 胜 0 负」和「0 胜 3 负」的队伍已经确定晋级或淘汰，他们不需要打第四轮。
+4. 第四轮会有 9 个「2 胜 1 负」的队伍和 9 个「1 胜 2 负」的队伍，排名最高的「2 胜 1 负」的队伍会和排名最低的「1 胜 2 负」的队伍比赛，其他队伍会继续按照瑞士轮规则比赛。
 5. 常规赛的排名将会直接决定淘汰赛的对阵情况。
-6. 常规赛的比赛赛制为十一局六胜，而后续的淘汰赛赛制为十三局七胜。
+6. 常规赛的比赛赛制为 11 局 6 胜，而后续的淘汰赛赛制为 13 局 7 胜。
 
 ### 比赛流程
 
-1. 比赛开始前15分钟，裁判提前建好多人房间，选手必须在此期间进房。
-   - 房间设置为：`游戏模式: "osu!mania"`, `分组方式: "Team Vs"` and `胜利条件: "ScoreV2"`. 房间名必须命名为：`GBC 2022 Autumn: ({TeamRed}) vs ({TeamBlue})`。
+1. 比赛开始前 15 分钟，裁判提前建好多人房间，选手必须在此期间进房。
+   - 房间设置为：`游戏模式："osu!mania"`，`分组方式："Team Vs"`，`胜利条件："Score V2"`。房间名必须命名为：`GBC 2022 Autumn: ({TeamRed}) vs ({TeamBlue})`。
    - 房间名中在前面的队伍是红队，在后面的队伍是蓝队。
-2. 每个队长在房间频道里使用`!roll`指令进行掷骰子，点数大的队伍可以选择先选图或者先禁用图，另一方自动选择另一个选项。
+2. 每个队长在房间频道里使用 `!roll` 指令进行掷骰子，点数大的队伍可以选择先选图或者先禁用图，另一方自动选择另一个选项。
 3. 每个队伍可以从图池中禁用**一张**谱面，在接下来整场比赛期间此谱面不可被选择。
 4. 每个队伍轮流从图池中选择一张谱面并进行比赛。
 5. 每次选图之后，选图一方**可以**禁用**一名**选手使其无法参加本局游戏，**但是 TB 除外**。随后另一方也可以禁用一名选手。
    - 每个人一场比赛只能被禁用一次。
    - 只能禁用在本场比赛已经出场打出成绩的选手。
    - 先选图的队伍前两张图无法禁用选手（根据上面的规则，实际上第一张图两队都不能禁用选手，因为任何人都没出过场）。
-   - 如果一个队伍可用选手过少，主办方可能会在ban位方面做出一定的限制。
-     - 禁止滥用这个规则。如果故意通过这种方式牟取ban位的优势，主办方有权对队伍做出惩罚。
-   - 选图和ban人的消息应在同一条信息发送，如果拖延ban人则裁判有权无视此次ban人行为。
+   - 如果一个队伍可用选手过少，主办方可能会在 ban 位方面做出一定的限制。
+     - 禁止滥用这个规则。如果故意通过这种方式牟取 ban 位的优势，主办方有权对队伍做出惩罚。
+   - 选图和 ban 人的消息应在同一条信息发送，如果拖延 ban 人则裁判有权无视此次 ban 人行为。
 6. 每个队伍有两分钟的时间选图和禁用选手，接下来有两分钟的时间准备就绪。如果一个队伍超时了，那么过程如下:
    - 第一次发生:
      - 队伍会收到来自裁判的警告。
    - 后续再次发生:
      - 如果在 ban 人，那么此次 ban 人作废。
      - 如果在 ban 图，那么此次 ban 图作废。
-     - 如果在选图，裁判使用roll点指令从图池可用谱面中随机选择一张谱面进行游玩。
+     - 如果在选图，裁判使用 roll 点指令从图池可用谱面中随机选择一张谱面进行游玩。
      - 如果在准备期间，裁判会直接使用 `!mp start 10` 指令开始游戏倒计时，不管房间内人数是否够。每队多余的选手会被 `!mp kick` 踢出。
    - 持续违反此项规则可能会受到主办方进一步的惩罚。
-7. 每个队伍每场比赛有一次可选的**两分钟**的技术暂停机会。可以用在选图ban图流程上。
-   - 可以在TB决胜局叫暂停，但是需要双方队长都同意才可以。
+7. 每个队伍每场比赛有一次可选的**两分钟**的技术暂停机会。可以用在选图 ban 图流程上。
+   - 可以在 TB 决胜局叫暂停，但是需要双方队长都同意才可以。
 
 ### 图池结构
 
 1. 除资格赛图池之外，比赛的正赛会有四个独立的图池。
-   - 常规赛第一轮和第二轮使用图池 1 
-   - 常规赛第三轮和第四轮使用图池 2 
-   - 十六强赛和四分之一决赛使用图池 3 
-   - 半决赛和决赛使用图池 4 
-2. 每轮图池的所有谱面都是在[FreeMod](/wiki/Game_modifier#自由选择模组-(freemod))条件下游玩。
+   - 常规赛第一轮和第二轮使用图池 1。
+   - 常规赛第三轮和第四轮使用图池 2。
+   - 十六强赛和四分之一决赛使用图池 3。
+   - 半决赛和决赛使用图池 4。
+2. 每轮图池的所有谱面都是在 [FreeMod](/wiki/Game_modifier#自由选择模组-(freemod)) 条件下游玩。
 3. 每轮图池的数量如下:
-   - 资格赛: 8 张
-   - 图池 1 & 图池 2: 15 张
-   - 图池 3 & 图池 4: 17 张
-4. 除资格赛图池之外，每个图池包含一张TB决胜局谱面，也将在FreeMod条件下游玩。
-5. Freemod 允许的 mod 包括 NoFail, Hidden, FadeIn, Flashlight, 和 Mirror。
+   - 资格赛：8 张
+   - 图池 1 & 图池 2：15 张
+   - 图池 3 & 图池 4：17 张
+4. 除资格赛图池之外，每个图池包含一张 TB 决胜局谱面，也将在 FreeMod 条件下游玩。
+5. Freemod 允许的 mod 包括 NoFail，Hidden，FadeIn，Flashlight 和 Mirror。
 
 ### 日程信息
 
 1. 每轮比赛都会在单独的**一个周末**进行。
 2. 资格赛的比赛将在特定的时间区间进行。每个选手可以自由选择一个想要比赛的时间区间。
-   - **如果选手在周三晚24时之前仍未选择区间，会被视作弃赛**。
+   - **如果选手在周三晚 24 时之前仍未选择区间，会被视作弃赛**。
 3. 所有的比赛会在周五晚六点到周日晚 12 点之间进行（UTC+8）。
    - 只有在两个队伍都要求的情况下才会调整时间到工作日进行比赛。
 4. 比赛日程由主办方来进行安排。主办方会在比赛开始前的上个周日提前预设好每轮的比赛的日程，尽量创造一个所有参赛选手都满意的时间安排。
    - 如果想在一个特定的时间打或某个特定时间没空比赛请提前告知主办方，主办方会尽量满足所有选手的要求，但不能保证全部实现。
-5. **只有双方队伍都同意并跟主办方沟通之后才可以修改时间。提交申请的时间限定在周四晚12点之前。**
+5. **只有双方队伍都同意并跟主办方沟通之后才可以修改时间。提交申请的时间限定在周四晚 12 点之前。**
    - 只有队长才能发起修改时间的申请。
-   - 时间不会安排到每周**周日晚12点之后**，除非这是无法避免的且双方和主办方都同意 。 
-   - **主办方有权拒绝修改时间的申请，所以请尽量少提交申请除非真的必要**。
+   - 时间不会安排到每周**周日晚 12 点之后**，除非这是无法避免的且双方和主办方都同意 。 
+   - **主办方有权拒绝修改时间的申请，所以除非真的必要，请尽量少提交申请**。
 6. 队长应保证队伍可以正常参赛。
 
 ## 后记
 
 1. 事实证明，比翻译一个晦涩的 wiki 文档更简单的方式是直接用中文重写一份，原文很多东西翻译起来是真的别扭。
-2. 有一个中文wiki是众多参赛选手呼声已久的事情，文档由 \[GB\]yobrevelc 重新编写，感谢 \[GB\]Natro 和 \[GB\]Rush_FTK 对本项工作的大力支持。
+2. 有一个中文 wiki 是众多参赛选手呼声已久的事情，文档由 [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) 重新编写，感谢 [\[GB\]Natro](https://osu.ppy.sh/users/27233308) 和 [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) 对本项工作的大力支持。
 
 ## 脚注
 
